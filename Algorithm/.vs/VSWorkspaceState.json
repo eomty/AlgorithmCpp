@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\answer",
+    "\\SortOn2"
   ],
-  "SelectedNode": "\\Algorithm.sln",
+  "SelectedNode": "\\answer\\answer.h",
   "PreviewInSolutionExplorer": false
 }
