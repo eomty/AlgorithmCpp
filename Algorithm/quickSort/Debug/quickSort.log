@@ -1,0 +1,3 @@
+﻿  QuickSort.cpp
+C:\Users\eomt\source\repos\Project1\quickSort\QuickSort.cpp(46): warning C4717: 'QuickSort': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  quickSort.vcxproj -> C:\Users\eomt\source\repos\Project1\Debug\quickSort.exe
