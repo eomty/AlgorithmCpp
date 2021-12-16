@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Josepus.h" />
+    <ClInclude Include="JosepusLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Josepus.cpp" />
+    <ClCompile Include="JosepusLinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
